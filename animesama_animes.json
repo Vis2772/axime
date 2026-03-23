@@ -1,0 +1,2209 @@
+{
+  "animes": [
+    {
+      "name": "3d kanojo",
+      "slug": "3d-kanojo",
+      "url": "https://animes-sama.fr/catalogue/3d-kanojo/",
+      "image_url": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/3d-kanojo.jpg",
+      "banner_url": null,
+      "synopsis": "Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "alternative_titles": [
+        "3D Girlfriend",
+        "3D Kanojo Real Girl"
+      ],
+      "anime_type": "anime",
+      "genres": [],
+      "seasons": [
+        {
+          "number": 1,
+          "label": "Saison 1",
+          "vostfr_episodes": [
+            {
+              "number": 1,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=4734128",
+                "https://vidmoly.biz/embed-08ngwswlfmsp.html",
+                "https://sendvid.com/embed/7oy1a06v"
+              ]
+            },
+            {
+              "number": 2,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=4734129",
+                "https://vidmoly.biz/embed-48s13jr3kp7j.html",
+                "https://sendvid.com/embed/zp2tuoi9"
+              ]
+            },
+            {
+              "number": 3,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=4734130",
+                "https://vidmoly.biz/embed-sad9we4gbnjz.html",
+                "https://sendvid.com/embed/q8m4of7d"
+              ]
+            },
+            {
+              "number": 4,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=4734131",
+                "https://vidmoly.biz/embed-6nkzpmzn2ex6.html",
+                "https://sendvid.com/embed/00yf6lhk"
+              ]
+            },
+            {
+              "number": 5,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=4734133",
+                "https://vidmoly.biz/embed-jeyrcmd5q111.html",
+                "https://sendvid.com/embed/fragvxs9"
+              ]
+            },
+            {
+              "number": 6,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=4734134",
+                "https://vidmoly.biz/embed-3ta26kfpfs6l.html",
+                "https://sendvid.com/embed/4v2bsxjv"
+              ]
+            },
+            {
+              "number": 7,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=4734135",
+                "https://vidmoly.biz/embed-bs4sj3hmxcxu.html",
+                "https://sendvid.com/embed/21j80mrl"
+              ]
+            },
+            {
+              "number": 8,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5476539",
+                "https://vidmoly.biz/embed-48n0h2sou71k.html",
+                "https://sendvid.com/embed/31rxw9ij"
+              ]
+            },
+            {
+              "number": 9,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=4734137",
+                "https://vidmoly.biz/embed-wo8jngigsleb.html",
+                "https://sendvid.com/embed/xxezsepm"
+              ]
+            },
+            {
+              "number": 10,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=4734138",
+                "https://vidmoly.biz/embed-edynhk7ithz4.html",
+                "https://sendvid.com/embed/a3dv4mqd"
+              ]
+            },
+            {
+              "number": 11,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=4734140",
+                "https://vidmoly.biz/embed-olrcqevcbdn6.html",
+                "https://sendvid.com/embed/soleskt2"
+              ]
+            },
+            {
+              "number": 12,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=4734141",
+                "https://vidmoly.biz/embed-kf6uxpor98x7.html",
+                "https://sendvid.com/embed/q4dp56iq"
+              ]
+            }
+          ],
+          "vf_episodes": [],
+          "vostfr_url": "https://animes-sama.fr/catalogue/3d-kanojo/saison1/vostfr",
+          "vf_url": null
+        },
+        {
+          "number": 2,
+          "label": "Saison 2",
+          "vostfr_episodes": [
+            {
+              "number": 1,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=4734149",
+                "https://vidmoly.biz/embed-shznvt33p0ck.html",
+                "https://sendvid.com/embed/p8st0u4o"
+              ]
+            },
+            {
+              "number": 2,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=4734152",
+                "https://vidmoly.biz/embed-t8g3140uaozr.html",
+                "https://sendvid.com/embed/n9xn1n8w"
+              ]
+            },
+            {
+              "number": 3,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=4734153",
+                "https://vidmoly.biz/embed-8tcsys6pkf6g.html",
+                "https://sendvid.com/embed/67oak14i"
+              ]
+            },
+            {
+              "number": 4,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=4734155",
+                "https://vidmoly.biz/embed-ejcpqk577h9w.html",
+                "https://sendvid.com/embed/1h2ocknj"
+              ]
+            },
+            {
+              "number": 5,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=4734157",
+                "https://vidmoly.biz/embed-824littv28xf.html",
+                "https://sendvid.com/embed/l8oinpqj"
+              ]
+            },
+            {
+              "number": 6,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=4734158",
+                "https://vidmoly.biz/embed-e60wikdzfmgx.html",
+                "https://sendvid.com/embed/mjlx2rcg"
+              ]
+            },
+            {
+              "number": 7,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=4734159",
+                "https://vidmoly.biz/embed-ycj9wy0owcre.html",
+                "https://sendvid.com/embed/ltikp3s5"
+              ]
+            },
+            {
+              "number": 8,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=4734161",
+                "https://vidmoly.biz/embed-kivp29ho5aep.html",
+                "https://sendvid.com/embed/6zpxl0a9"
+              ]
+            },
+            {
+              "number": 9,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=4734162",
+                "https://vidmoly.biz/embed-tfljqnp07ojf.html",
+                "https://sendvid.com/embed/3xs6z45l"
+              ]
+            },
+            {
+              "number": 10,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=4734163",
+                "https://vidmoly.biz/embed-szhj0luwvymf.html",
+                "https://sendvid.com/embed/goltxfru"
+              ]
+            },
+            {
+              "number": 11,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=4734165",
+                "https://vidmoly.biz/embed-ah714lwgrmfh.html",
+                "https://sendvid.com/embed/ncm44wt6"
+              ]
+            },
+            {
+              "number": 12,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=4734166",
+                "https://vidmoly.biz/embed-baczd5yg09ck.html",
+                "https://sendvid.com/embed/fxxr8jq5"
+              ]
+            }
+          ],
+          "vf_episodes": [],
+          "vostfr_url": "https://animes-sama.fr/catalogue/3d-kanojo/saison2/vostfr",
+          "vf_url": null
+        }
+      ],
+      "scraped_at": "2026-03-21T14:28:32.340558"
+    },
+    {
+      "name": "2.5 jigen no ririsa",
+      "slug": "2.5-jigen-no-ririsa",
+      "url": "https://animes-sama.fr/catalogue/2.5-jigen-no-ririsa/",
+      "image_url": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/2.5-jigen-no-ririsa.jpg",
+      "banner_url": null,
+      "synopsis": "Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "alternative_titles": [
+        "2.5 Dimensional Seduction",
+        "2.5-Jigen no Yuuwaku"
+      ],
+      "anime_type": "anime",
+      "genres": [],
+      "seasons": [
+        {
+          "number": 1,
+          "label": "Saison 1",
+          "vostfr_episodes": [
+            {
+              "number": 1,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5586966",
+                "https://vidmoly.biz/embed-6jskj9kg7ina.html",
+                "https://sendvid.com/embed/bo0spsdo"
+              ]
+            },
+            {
+              "number": 2,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5594490",
+                "https://vidmoly.biz/embed-x27gtp3g59fc.html",
+                "https://sendvid.com/embed/pgqugwv5"
+              ]
+            },
+            {
+              "number": 3,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5601997",
+                "https://vidmoly.biz/embed-19mabe47345m.html",
+                "https://sendvid.com/embed/ngcn7lre"
+              ]
+            },
+            {
+              "number": 4,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5610088",
+                "https://vidmoly.biz/embed-11up1p38225z.html",
+                "https://sendvid.com/embed/m3pagekf"
+              ]
+            },
+            {
+              "number": 5,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5618260",
+                "https://vidmoly.biz/embed-m4lgo5g1t32l.html",
+                "https://sendvid.com/embed/49aotumt"
+              ]
+            },
+            {
+              "number": 6,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5628478",
+                "https://vidmoly.biz/embed-boh092i7snck.html",
+                "https://sendvid.com/embed/8h84faiq"
+              ]
+            },
+            {
+              "number": 7,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5638813",
+                "https://vidmoly.biz/embed-pgp69e6io22x.html",
+                "https://sendvid.com/embed/ya1gw6uf"
+              ]
+            },
+            {
+              "number": 8,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5649690",
+                "https://vidmoly.biz/embed-3atrhfcnxh73.html",
+                "https://sendvid.com/embed/ud1soerr"
+              ]
+            },
+            {
+              "number": 9,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5657151",
+                "https://vidmoly.biz/embed-rki5k4y4slll.html",
+                "https://sendvid.com/embed/5qy5h0m2"
+              ]
+            },
+            {
+              "number": 10,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5665654",
+                "https://vidmoly.biz/embed-615aw3vf1ve8.html",
+                "https://sendvid.com/embed/itoljdmc"
+              ]
+            },
+            {
+              "number": 11,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5674886",
+                "https://vidmoly.biz/embed-gpeam8m8orpc.html",
+                "https://sendvid.com/embed/mvo7ulf0"
+              ]
+            },
+            {
+              "number": 12,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5683836",
+                "https://vidmoly.biz/embed-as6mmufc5pft.html",
+                "https://sendvid.com/embed/pf4q8sef"
+              ]
+            },
+            {
+              "number": 13,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5692810",
+                "https://vidmoly.biz/embed-t9bvo4p2ueys.html",
+                "https://sendvid.com/embed/i7b7aif5"
+              ]
+            },
+            {
+              "number": 14,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5701876",
+                "https://vidmoly.biz/embed-zyffiyhged6s.html",
+                "https://sendvid.com/embed/duteqpll"
+              ]
+            },
+            {
+              "number": 15,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5711812",
+                "https://vidmoly.biz/embed-5g9indavbuwy.html",
+                "https://sendvid.com/embed/q7gkhobw"
+              ]
+            },
+            {
+              "number": 16,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5720266",
+                "https://vidmoly.biz/embed-0yakqcmhmocj.html",
+                "https://sendvid.com/embed/botfk0v3"
+              ]
+            },
+            {
+              "number": 17,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5729400",
+                "https://vidmoly.biz/embed-xuezk00ae31v.html",
+                "https://sendvid.com/embed/h7cf32k4"
+              ]
+            },
+            {
+              "number": 18,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5738281",
+                "https://vidmoly.biz/embed-91u8wmlti2s8.html",
+                "https://sendvid.com/embed/3hwzb313"
+              ]
+            },
+            {
+              "number": 19,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5745381",
+                "https://vidmoly.biz/embed-36h1nv8eql8r.html",
+                "https://sendvid.com/embed/snwdab7k"
+              ]
+            },
+            {
+              "number": 20,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5752233",
+                "https://vidmoly.biz/embed-wv5p7pk24pzc.html",
+                "https://sendvid.com/embed/paqemz8m"
+              ]
+            },
+            {
+              "number": 21,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5759427",
+                "https://vidmoly.biz/embed-fzlzcq1lrjtv.html",
+                "https://video.sibnet.ru/shell.php?videoid=5759427"
+              ]
+            },
+            {
+              "number": 22,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5765007",
+                "https://vidmoly.biz/embed-pp1m9qgxyx1a.html",
+                "https://oneupload.to/embed-if2xyjrrvoh8.html"
+              ]
+            },
+            {
+              "number": 23,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5769011",
+                "https://vidmoly.biz/embed-353qa036j86u.html",
+                "https://sendvid.com/embed/n5vzkruh"
+              ]
+            },
+            {
+              "number": 24,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5773069",
+                "https://vidmoly.biz/embed-uilvd81ix8st.html",
+                "https://sendvid.com/embed/tt4w3tdh"
+              ]
+            }
+          ],
+          "vf_episodes": [],
+          "vostfr_url": "https://animes-sama.fr/catalogue/2.5-jigen-no-ririsa/saison1/vostfr",
+          "vf_url": null
+        }
+      ],
+      "scraped_at": "2026-03-21T14:28:32.819591"
+    },
+    {
+      "name": "a barbarians adventure in a fantasy world",
+      "slug": "a-barbarians-adventure-in-a-fantasy-world",
+      "url": "https://animes-sama.fr/catalogue/a-barbarians-adventure-in-a-fantasy-world/",
+      "image_url": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/a-barbarians-adventure-in-a-fantasy-world.jpg",
+      "banner_url": null,
+      "synopsis": "Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "alternative_titles": [
+        "Surviving as a Barbarian in a Fantasy World"
+      ],
+      "anime_type": "anime",
+      "genres": [],
+      "seasons": [
+        {
+          "number": 1,
+          "label": "Saison 1",
+          "vostfr_episodes": [
+            {
+              "number": 1,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=",
+                "https://vidmoly.biz/embed-.html",
+                "https://sendvid.com/embed/",
+                "https://vk.com/video_ext.php?oid=&hd=3"
+              ]
+            }
+          ],
+          "vf_episodes": [],
+          "vostfr_url": "https://animes-sama.fr/catalogue/a-barbarians-adventure-in-a-fantasy-world/saison1/vostfr",
+          "vf_url": null
+        },
+        {
+          "number": 2,
+          "label": "Saison 2",
+          "vostfr_episodes": [
+            {
+              "number": 1,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=",
+                "https://vidmoly.biz/embed-.html",
+                "https://sendvid.com/embed/",
+                "https://vk.com/video_ext.php?oid=&hd=3"
+              ]
+            }
+          ],
+          "vf_episodes": [],
+          "vostfr_url": "https://animes-sama.fr/catalogue/a-barbarians-adventure-in-a-fantasy-world/saison2/vostfr",
+          "vf_url": null
+        },
+        {
+          "number": 3,
+          "label": "Saison 3",
+          "vostfr_episodes": [
+            {
+              "number": 1,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=",
+                "https://vidmoly.biz/embed-.html",
+                "https://sendvid.com/embed/",
+                "https://vk.com/video_ext.php?oid=&hd=3"
+              ]
+            }
+          ],
+          "vf_episodes": [],
+          "vostfr_url": "https://animes-sama.fr/catalogue/a-barbarians-adventure-in-a-fantasy-world/saison3/vostfr",
+          "vf_url": null
+        },
+        {
+          "number": 4,
+          "label": "Saison 4",
+          "vostfr_episodes": [
+            {
+              "number": 1,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=",
+                "https://vidmoly.biz/embed-.html",
+                "https://sendvid.com/embed/",
+                "https://vk.com/video_ext.php?oid=&hd=3"
+              ]
+            }
+          ],
+          "vf_episodes": [],
+          "vostfr_url": "https://animes-sama.fr/catalogue/a-barbarians-adventure-in-a-fantasy-world/saison4/vostfr",
+          "vf_url": null
+        }
+      ],
+      "scraped_at": "2026-03-21T14:28:33.028491"
+    },
+    {
+      "name": "29 sai dokushin chuuken boukensha no nichijou",
+      "slug": "29-sai-dokushin-chuuken-boukensha-no-nichijou",
+      "url": "https://animes-sama.fr/catalogue/29-sai-dokushin-chuuken-boukensha-no-nichijou/",
+      "image_url": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/29-sai-dokushin-chuuken-boukensha-no-nichijou.jpg",
+      "banner_url": null,
+      "synopsis": "Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "alternative_titles": [
+        "Everyday of the 29 years old single person adventurer"
+      ],
+      "anime_type": "anime",
+      "genres": [],
+      "seasons": [
+        {
+          "number": 1,
+          "label": "Saison 1",
+          "vostfr_episodes": [
+            {
+              "number": 1,
+              "sources": [
+                "https://lpayer.embed4me.com/#vlq69",
+                "https://vidmoly.biz/embed-4av8gyf0cn9g.html",
+                "https://video.sibnet.ru/shell.php?videoid=6093530",
+                "https://sendvid.com/embed/cyaxa7bs",
+                "https://dingtezuni.com/embed/cufss4f66yiv"
+              ]
+            },
+            {
+              "number": 2,
+              "sources": [
+                "https://lpayer.embed4me.com/#961gr",
+                "https://vidmoly.biz/embed-ba6vf515ze2e.html",
+                "https://video.sibnet.ru/shell.php?videoid=6098876",
+                "https://sendvid.com/embed/wpq8vy02",
+                "https://dingtezuni.com/embed/6zpmdzf20gf3"
+              ]
+            },
+            {
+              "number": 3,
+              "sources": [
+                "https://lpayer.embed4me.com/#53sne",
+                "https://vidmoly.biz/embed-5n057ubuq8e6.html",
+                "https://video.sibnet.ru/shell.php?videoid=6104155",
+                "https://sendvid.com/embed/i9k4dzvv",
+                "https://dingtezuni.com/embed/ln8vtrqmxxwi"
+              ]
+            },
+            {
+              "number": 4,
+              "sources": [
+                "https://lpayer.embed4me.com/#53lmm",
+                "https://vidmoly.biz/embed-0cc4qkjh8ptm.html",
+                "https://video.sibnet.ru/shell.php?videoid=6109673",
+                "https://sendvid.com/embed/nhwa0m5x",
+                "https://dingtezuni.com/embed/pk8djtf9h6ic"
+              ]
+            },
+            {
+              "number": 5,
+              "sources": [
+                "https://lpayer.embed4me.com/#suwlw",
+                "https://vidmoly.biz/embed-m8ln3u565axm.html",
+                "https://video.sibnet.ru/shell.php?videoid=6115608",
+                "https://vidmoly.biz/embed-m8ln3u565axm.html",
+                "https://dingtezuni.com/embed/15npzqpldwxm"
+              ]
+            },
+            {
+              "number": 6,
+              "sources": [
+                "https://lpayer.embed4me.com/#vwyxn",
+                "https://vidmoly.biz/embed-hj9j9n93o7w2.html",
+                "https://video.sibnet.ru/shell.php?videoid=6120725",
+                "https://vidmoly.biz/embed-hj9j9n93o7w2.html",
+                "https://dingtezuni.com/embed/9wyxhyg3s5pp"
+              ]
+            },
+            {
+              "number": 7,
+              "sources": [
+                "https://lpayer.embed4me.com/#kbzwk",
+                "https://vidmoly.biz/embed-9mm5ul6zq4a4.html",
+                "https://video.sibnet.ru/shell.php?videoid=6127944",
+                "https://vidmoly.biz/embed-9mm5ul6zq4a4.html",
+                "https://dingtezuni.com/embed/f7c3yvmke6zj"
+              ]
+            },
+            {
+              "number": 8,
+              "sources": [
+                "https://lpayer.embed4me.com/#gjg8n",
+                "https://vidmoly.biz/embed-kqowosw6iub8.html",
+                "https://video.sibnet.ru/shell.php?videoid=6132940",
+                "https://vidmoly.biz/embed-kqowosw6iub8.html",
+                "https://dingtezuni.com/embed/fc1tcjrjj50d"
+              ]
+            },
+            {
+              "number": 9,
+              "sources": [
+                "https://lpayer.embed4me.com/#gkm1d",
+                "https://vidmoly.biz/embed-irdvm876c28a.html",
+                "https://video.sibnet.ru/shell.php?videoid=6138960",
+                "https://vidmoly.biz/embed-irdvm876c28a.html",
+                "https://dingtezuni.com/embed/lpbj3cxyo0bx"
+              ]
+            },
+            {
+              "number": 10,
+              "sources": [
+                "https://lpayer.embed4me.com/#6dtp6",
+                "https://vidmoly.biz/embed-zh4fg0qaa8qj.html",
+                "https://video.sibnet.ru/shell.php?videoid=6144105",
+                "https://vidmoly.biz/embed-zh4fg0qaa8qj.html",
+                "https://dingtezuni.com/embed/kzexfotjzo5s"
+              ]
+            },
+            {
+              "number": 11,
+              "sources": [
+                "https://lpayer.embed4me.com/#fxf1d",
+                "https://vidmoly.biz/embed-vw0cbyfod706.html",
+                "https://video.sibnet.ru/shell.php?videoid=6149838",
+                "https://vidmoly.biz/embed-vw0cbyfod706.html",
+                "https://earnvids.com/?op=upload_file"
+              ]
+            }
+          ],
+          "vf_episodes": [],
+          "vostfr_url": "https://animes-sama.fr/catalogue/29-sai-dokushin-chuuken-boukensha-no-nichijou/saison1/vostfr",
+          "vf_url": null
+        },
+        {
+          "number": 2,
+          "label": "Saison 2",
+          "vostfr_episodes": [
+            {
+              "number": 1,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=",
+                "https://vidmoly.biz/embed-.html",
+                "https://sendvid.com/embed/",
+                "https://vk.com/video_ext.php?oid=&hd=3"
+              ]
+            }
+          ],
+          "vf_episodes": [],
+          "vostfr_url": "https://animes-sama.fr/catalogue/29-sai-dokushin-chuuken-boukensha-no-nichijou/saison2/vostfr",
+          "vf_url": null
+        },
+        {
+          "number": 3,
+          "label": "Saison 3",
+          "vostfr_episodes": [
+            {
+              "number": 1,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=",
+                "https://vidmoly.biz/embed-.html",
+                "https://sendvid.com/embed/",
+                "https://vk.com/video_ext.php?oid=&hd=3"
+              ]
+            }
+          ],
+          "vf_episodes": [],
+          "vostfr_url": "https://animes-sama.fr/catalogue/29-sai-dokushin-chuuken-boukensha-no-nichijou/saison3/vostfr",
+          "vf_url": null
+        },
+        {
+          "number": 4,
+          "label": "Saison 4",
+          "vostfr_episodes": [
+            {
+              "number": 1,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=",
+                "https://vidmoly.biz/embed-.html",
+                "https://sendvid.com/embed/",
+                "https://vk.com/video_ext.php?oid=&hd=3"
+              ]
+            }
+          ],
+          "vf_episodes": [],
+          "vostfr_url": "https://animes-sama.fr/catalogue/29-sai-dokushin-chuuken-boukensha-no-nichijou/saison4/vostfr",
+          "vf_url": null
+        }
+      ],
+      "scraped_at": "2026-03-21T14:28:32.827762"
+    },
+    {
+      "name": "7th time loop the villainess enjoys a carefree life married to her worst enemy",
+      "slug": "7th-time-loop-the-villainess-enjoys-a-carefree-life-married-to-her-worst-enemy",
+      "url": "https://animes-sama.fr/catalogue/7th-time-loop-the-villainess-enjoys-a-carefree-life-married-to-her-worst-enemy/",
+      "image_url": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/7th-time-loop-the-villainess-enjoys-a-carefree-life-married-to-her-worst-enemy.jpg",
+      "banner_url": null,
+      "synopsis": "Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "alternative_titles": [
+        "Loop 7-kaime no Akuyaku Reijou wa",
+        "Moto Tekikoku de Jiyuu Kimamana Hanayome Seikatsu wo Mankitsu Suru"
+      ],
+      "anime_type": "anime",
+      "genres": [],
+      "seasons": [
+        {
+          "number": 1,
+          "label": "Saison 1",
+          "vostfr_episodes": [
+            {
+              "number": 1,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5390320",
+                "https://vidmoly.biz/embed-qogk4au80yk4.html",
+                "https://vk.com/video_ext.php?oid=755747641&id=456240667&hd=3",
+                "https://sendvid.com/embed/f5bvzdrk"
+              ]
+            },
+            {
+              "number": 2,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5398637",
+                "https://vidmoly.biz/embed-56uhit045s6y.html",
+                "https://vk.com/video_ext.php?oid=755747641&id=456240691&hd=3",
+                "https://sendvid.com/embed/jrbdok7y"
+              ]
+            },
+            {
+              "number": 3,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5407476",
+                "https://vidmoly.biz/embed-kxtpg6kjr9ak.html",
+                "https://vk.com/video_ext.php?oid=755747641&id=456240709&hd=3",
+                "https://sendvid.com/embed/22s328d8"
+              ]
+            },
+            {
+              "number": 4,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5415890",
+                "https://vidmoly.biz/embed-bg43np83mw32.html",
+                "https://vk.com/video_ext.php?oid=755747641&id=456240727&hd=3",
+                "https://sendvid.com/embed/68d6jwsh"
+              ]
+            },
+            {
+              "number": 5,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5422223",
+                "https://vidmoly.biz/embed-cqgyxsu7unfu.html",
+                "https://vk.com/video_ext.php?oid=755747641&id=456240744&hd=3",
+                "https://sendvid.com/embed/kffzfpxx"
+              ]
+            },
+            {
+              "number": 6,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5429003",
+                "https://vidmoly.biz/embed-fb7ob89g360e.html",
+                "https://vk.com/video_ext.php?oid=751474887&id=456239308&hd=3",
+                "https://sendvid.com/embed/gzrlg82g"
+              ]
+            },
+            {
+              "number": 7,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5437001",
+                "https://vidmoly.biz/embed-yse55xp88swc.html",
+                "https://vk.com/video_ext.php?oid=751474887&id=456239325&hd=3",
+                "https://sendvid.com/embed/67vricmr"
+              ]
+            },
+            {
+              "number": 8,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5445814",
+                "https://vidmoly.biz/embed-fd9wv8gc5km4.html",
+                "https://vk.com/video_ext.php?oid=751474887&id=456239339&hd=3",
+                "https://sendvid.com/embed/nze15t4r"
+              ]
+            },
+            {
+              "number": 9,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5454214",
+                "https://vidmoly.biz/embed-2lx4li19xupp.html",
+                "https://vk.com/video_ext.php?oid=751474887&id=456239354&hd=3",
+                "https://sendvid.com/embed/7lcwfh8u"
+              ]
+            },
+            {
+              "number": 10,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5463070",
+                "https://vidmoly.biz/embed-4n5fqxc0juh4.html",
+                "https://vk.com/video_ext.php?oid=751474887&id=456239372&hd=3",
+                "https://sendvid.com/embed/nk7iljj9"
+              ]
+            },
+            {
+              "number": 11,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5471513",
+                "https://vidmoly.biz/embed-94bafmy3h72y.html",
+                "https://vk.com/video_ext.php?oid=751474887&id=456239385&hd=3",
+                "https://video.sibnet.ru/shell.php?videoid=5480661"
+              ]
+            },
+            {
+              "number": 12,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5480661",
+                "https://vidmoly.biz/embed-ny23sq1svylc.html",
+                "https://vk.com/video_ext.php?oid=751474887&id=456239394&hd=3"
+              ]
+            }
+          ],
+          "vf_episodes": [],
+          "vostfr_url": "https://animes-sama.fr/catalogue/7th-time-loop-the-villainess-enjoys-a-carefree-life-married-to-her-worst-enemy/saison1/vostfr",
+          "vf_url": null
+        }
+      ],
+      "scraped_at": "2026-03-21T14:28:33.020259"
+    },
+    {
+      "name": "99 reinforced wood stick",
+      "slug": "99-reinforced-wood-stick",
+      "url": "https://animes-sama.fr/catalogue/99-reinforced-wood-stick/",
+      "image_url": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/99-reinforced-wood-stick.jpg",
+      "banner_url": null,
+      "synopsis": "Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "alternative_titles": [
+        "99 Wooden Stick",
+        "99 Hardened Wooden Stick",
+        "99 Wooden Stick"
+      ],
+      "anime_type": "anime",
+      "genres": [],
+      "seasons": [],
+      "scraped_at": "2026-03-21T14:28:32.585314"
+    },
+    {
+      "name": "20th century boys",
+      "slug": "20th-century-boys",
+      "url": "https://animes-sama.fr/catalogue/20th-century-boys/",
+      "image_url": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/20th-century-boys.jpg",
+      "banner_url": null,
+      "synopsis": "Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "alternative_titles": [
+        "21st Century Boys"
+      ],
+      "anime_type": "anime",
+      "genres": [],
+      "seasons": [],
+      "scraped_at": "2026-03-21T14:28:33.002616"
+    },
+    {
+      "name": "365 days to the wedding",
+      "slug": "365-days-to-the-wedding",
+      "url": "https://animes-sama.fr/catalogue/365-days-to-the-wedding/",
+      "image_url": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/365-days-to-the-wedding.jpg",
+      "banner_url": null,
+      "synopsis": "Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "alternative_titles": [
+        "Kekkon Surutte Hontou desu ka",
+        "Are You Really Getting Married?",
+        "Map for The Wedding"
+      ],
+      "anime_type": "anime",
+      "genres": [],
+      "seasons": [
+        {
+          "number": 1,
+          "label": "Saison 1",
+          "vostfr_episodes": [
+            {
+              "number": 1,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5700596",
+                "https://vidmoly.biz/embed-bxuk8718bdw8.html",
+                "https://oneupload.to/embed-fa3bfw24qud9.html",
+                "https://sendvid.com/embed/4dhdt75q"
+              ]
+            },
+            {
+              "number": 2,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5710638",
+                "https://vidmoly.biz/embed-dnzz1t5xid3g.html",
+                "https://oneupload.to/embed-zak7bl61o30i.html",
+                "https://sendvid.com/embed/cb3yya8t"
+              ]
+            },
+            {
+              "number": 3,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5719128",
+                "https://vidmoly.biz/embed-kudt4dkn2a3b.html",
+                "https://oneupload.to/embed-dzj22bv8calm.html",
+                "https://sendvid.com/embed/lzm4fhnv"
+              ]
+            },
+            {
+              "number": 4,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5728305",
+                "https://vidmoly.biz/embed-pvftjhxpcm4e.html",
+                "https://oneupload.to/embed-dmaxphli9jhm.html",
+                "https://sendvid.com/embed/trkum1zk"
+              ]
+            },
+            {
+              "number": 5,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5736945",
+                "https://vidmoly.biz/embed-m8c9jsh3myky.html",
+                "https://oneupload.to/embed-9bn9umhb4a3r.html",
+                "https://sendvid.com/embed/d0oi4cdt"
+              ]
+            },
+            {
+              "number": 6,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5744184",
+                "https://vidmoly.biz/embed-jpsren4aceom.html",
+                "https://oneupload.to/embed-nmga9bpefqeg.html",
+                "https://sendvid.com/embed/jipa83g5"
+              ]
+            },
+            {
+              "number": 7,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5751487",
+                "https://vidmoly.biz/embed-ugjqlgvxai8m.html",
+                "https://oneupload.to/embed-fzik8jlowvib.html",
+                "https://sendvid.com/embed/48lp8hvj"
+              ]
+            },
+            {
+              "number": 8,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5758265",
+                "https://vidmoly.biz/embed-zo324otqeq1n.html",
+                "https://oneupload.to/embed-swvffxgqao24.html",
+                "https://sendvid.com/embed/xxoafs4s"
+              ]
+            },
+            {
+              "number": 9,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5764402",
+                "https://vidmoly.biz/embed-ay8xx0ir25r2.html",
+                "https://oneupload.to/embed-ejkw0dlbh4qo.html",
+                "https://sendvid.com/embed/cmvj760i"
+              ]
+            },
+            {
+              "number": 10,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5768565",
+                "https://vidmoly.biz/embed-2dc88k7xe13d.html",
+                "https://oneupload.to/embed-uhq3war6owsg.html",
+                "https://sendvid.com/embed/0gu6ks40"
+              ]
+            },
+            {
+              "number": 11,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5772512",
+                "https://vidmoly.biz/embed-85i3aak962zx.html",
+                "https://oneupload.to/embed-hlkpe40w7lwy.html",
+                "https://sendvid.com/embed/z9wb248v"
+              ]
+            },
+            {
+              "number": 12,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5777938",
+                "https://vidmoly.biz/embed-u5pvm66vp450.html",
+                "https://oneupload.to/embed-df2c8c0qnvcl.html",
+                "https://sendvid.com/embed/o98ftvtv"
+              ]
+            }
+          ],
+          "vf_episodes": [],
+          "vostfr_url": "https://animes-sama.fr/catalogue/365-days-to-the-wedding/saison1/vostfr",
+          "vf_url": null
+        }
+      ],
+      "scraped_at": "2026-03-21T14:28:32.892334"
+    },
+    {
+      "name": "a centaurs life",
+      "slug": "a-centaurs-life",
+      "url": "https://animes-sama.fr/catalogue/a-centaurs-life/",
+      "image_url": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/a-centaurs-life.jpg",
+      "banner_url": null,
+      "synopsis": "Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "alternative_titles": [
+        "Centaur no Nayami"
+      ],
+      "anime_type": "anime",
+      "genres": [],
+      "seasons": [
+        {
+          "number": 1,
+          "label": "Saison 1",
+          "vostfr_episodes": [
+            {
+              "number": 1,
+              "sources": [
+                "https://sendvid.com/embed/ldbw6kva",
+                "https://video.sibnet.ru/shell.php?videoid=5306559"
+              ]
+            },
+            {
+              "number": 2,
+              "sources": [
+                "https://sendvid.com/embed/86r6km08",
+                "https://video.sibnet.ru/shell.php?videoid=5306561"
+              ]
+            },
+            {
+              "number": 3,
+              "sources": [
+                "https://sendvid.com/embed/dcgps8nq",
+                "https://video.sibnet.ru/shell.php?videoid=5306563"
+              ]
+            },
+            {
+              "number": 4,
+              "sources": [
+                "https://sendvid.com/embed/kl5fo8uh",
+                "https://video.sibnet.ru/shell.php?videoid=5306565"
+              ]
+            },
+            {
+              "number": 5,
+              "sources": [
+                "https://sendvid.com/embed/hpta4o4s",
+                "https://video.sibnet.ru/shell.php?videoid=5306566"
+              ]
+            },
+            {
+              "number": 6,
+              "sources": [
+                "https://sendvid.com/embed/h3gywwzr",
+                "https://video.sibnet.ru/shell.php?videoid=5306567"
+              ]
+            },
+            {
+              "number": 7,
+              "sources": [
+                "https://sendvid.com/embed/ofvb3taw",
+                "https://video.sibnet.ru/shell.php?videoid=5306568"
+              ]
+            },
+            {
+              "number": 8,
+              "sources": [
+                "https://sendvid.com/embed/kowuqsyw",
+                "https://video.sibnet.ru/shell.php?videoid=5306570"
+              ]
+            },
+            {
+              "number": 9,
+              "sources": [
+                "https://sendvid.com/embed/jfkiqo20",
+                "https://video.sibnet.ru/shell.php?videoid=5306572"
+              ]
+            },
+            {
+              "number": 10,
+              "sources": [
+                "https://sendvid.com/embed/ogor8rio",
+                "https://video.sibnet.ru/shell.php?videoid=5306573"
+              ]
+            },
+            {
+              "number": 11,
+              "sources": [
+                "https://sendvid.com/embed/msxajdpj",
+                "https://video.sibnet.ru/shell.php?videoid=5306576"
+              ]
+            },
+            {
+              "number": 12,
+              "sources": [
+                "https://sendvid.com/embed/7xyl2w8h",
+                "https://video.sibnet.ru/shell.php?videoid=5306578"
+              ]
+            }
+          ],
+          "vf_episodes": [],
+          "vostfr_url": "https://animes-sama.fr/catalogue/a-centaurs-life/saison1/vostfr",
+          "vf_url": null
+        }
+      ],
+      "scraped_at": "2026-03-21T14:28:32.372124"
+    },
+    {
+      "name": "5 cm per second",
+      "slug": "5-cm-per-second",
+      "url": "https://animes-sama.fr/catalogue/5-cm-per-second/",
+      "image_url": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/5-cm-per-second.jpg",
+      "banner_url": null,
+      "synopsis": "Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "alternative_titles": [
+        "Byousoku 5 Centimeter : a chain of short stories about their distance",
+        "5 cm per second",
+        "5 Centimeters Per Second",
+        "Five Centimeters Per Second",
+        "Byousoku 5 Centimeter",
+        "a chain of short stories about their distance",
+        "5 Centimetres Per Second"
+      ],
+      "anime_type": "anime",
+      "genres": [],
+      "seasons": [],
+      "scraped_at": "2026-03-21T14:28:32.355506"
+    },
+    {
+      "name": "66666 years advent of the dark mage",
+      "slug": "66666-years-advent-of-the-dark-mage",
+      "url": "https://animes-sama.fr/catalogue/66666-years-advent-of-the-dark-mage/",
+      "image_url": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/66666-years-advent-of-the-dark-mage.jpg",
+      "banner_url": null,
+      "synopsis": "Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "alternative_titles": [
+        "66666nyeon Mane Hwansaenghan Heukmabeopsa",
+        "66 666 Years Advent of the Dark Mage",
+        "66",
+        "666 Years: Advent of the Dark Mage"
+      ],
+      "anime_type": "anime",
+      "genres": [],
+      "seasons": [],
+      "scraped_at": "2026-03-21T14:28:35.242174"
+    },
+    {
+      "name": "2.43 seiin koukou danshi volley bu",
+      "slug": "2.43-seiin-koukou-danshi-volley-bu",
+      "url": "https://animes-sama.fr/catalogue/2.43-seiin-koukou-danshi-volley-bu/",
+      "image_url": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/2.43-seiin-koukou-danshi-volley-bu.jpg",
+      "banner_url": null,
+      "synopsis": "Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "alternative_titles": [
+        "2.43: Seiin High School Boys Volleyball Team"
+      ],
+      "anime_type": "anime",
+      "genres": [],
+      "seasons": [
+        {
+          "number": 1,
+          "label": "Saison 1",
+          "vostfr_episodes": [
+            {
+              "number": 1,
+              "sources": [
+                "https://sendvid.com/embed/h9qf3tcz",
+                "https://video.sibnet.ru/shell.php?videoid=4206093",
+                "https://www.myvi.top/embed/k5wrhbz84o6rxeqh4fc8uzshur"
+              ]
+            },
+            {
+              "number": 2,
+              "sources": [
+                "https://sendvid.com/embed/ulxladct",
+                "https://video.sibnet.ru/shell.php?videoid=4209756",
+                "https://www.myvi.top/embed/7fqnbzoxedewuqf9mrd5gkgrjw"
+              ]
+            },
+            {
+              "number": 3,
+              "sources": [
+                "https://sendvid.com/embed/k1v69tmn",
+                "https://video.sibnet.ru/shell.php?videoid=4214096",
+                "https://www.myvi.top/embed/8f6o3jyoaiywbedsgpeagree9y"
+              ]
+            },
+            {
+              "number": 4,
+              "sources": [
+                "https://sendvid.com/embed/ziuql4sl",
+                "https://video.sibnet.ru/shell.php?videoid=4218679",
+                "https://www.myvi.top/embed/3pf8ma4fa5nr9dh7ppgesmtebc"
+              ]
+            },
+            {
+              "number": 5,
+              "sources": [
+                "https://sendvid.com/embed/b0neh9c7",
+                "https://video.sibnet.ru/shell.php?videoid=4225134",
+                "https://www.myvi.top/embed/dpnsumsxdcjw9g6pufcekg8eie"
+              ]
+            },
+            {
+              "number": 6,
+              "sources": [
+                "https://sendvid.com/embed/79vx4x9f",
+                "https://video.sibnet.ru/shell.php?videoid=4231477",
+                "https://www.myvi.top/embed/h5boe9ojeoiw8e8mty3s965upw"
+              ]
+            },
+            {
+              "number": 7,
+              "sources": [
+                "https://sendvid.com/embed/7u86wv26",
+                "https://video.sibnet.ru/shell.php?videoid=4235917",
+                "https://www.myvi.top/embed/efezp8irdkowjmdjwd65ux4o8o"
+              ]
+            },
+            {
+              "number": 8,
+              "sources": [
+                "https://sendvid.com/embed/r1b4o1uj",
+                "https://video.sibnet.ru/shell.php?videoid=4245730",
+                "https://www.myvi.top/embed/hbfdcw6by14ricajjnfx6zyw9e"
+              ]
+            },
+            {
+              "number": 9,
+              "sources": [
+                "https://sendvid.com/embed/lkqvl4w7",
+                "https://video.sibnet.ru/shell.php?videoid=4252589",
+                "https://www.myvi.top/embed/kmekyhcocwewfjro3usqjadj1o"
+              ]
+            },
+            {
+              "number": 10,
+              "sources": [
+                "https://sendvid.com/embed/2s70r0i4",
+                "https://video.sibnet.ru/shell.php?videoid=4259036",
+                "https://www.myvi.top/embed/fbi47ythsmyrtbqoeo5gnqdedw"
+              ]
+            },
+            {
+              "number": 11,
+              "sources": [
+                "https://sendvid.com/embed/5zsazwuc",
+                "https://video.sibnet.ru/shell.php?videoid=4263920",
+                "https://www.myvi.top/embed/fx8sngg3b1fw3gp84e9bq6zuee"
+              ]
+            },
+            {
+              "number": 12,
+              "sources": [
+                "https://sendvid.com/embed/ugktzdvh",
+                "https://video.sibnet.ru/shell.php?videoid=4271641",
+                "https://www.myvi.top/embed/tiixmrphxbdwumnbgo8gdgzfmo"
+              ]
+            }
+          ],
+          "vf_episodes": [],
+          "vostfr_url": "https://animes-sama.fr/catalogue/2.43-seiin-koukou-danshi-volley-bu/saison1/vostfr",
+          "vf_url": null
+        }
+      ],
+      "scraped_at": "2026-03-21T14:28:35.485536"
+    },
+    {
+      "name": "7 seeds",
+      "slug": "7-seeds",
+      "url": "https://animes-sama.fr/catalogue/7-seeds/",
+      "image_url": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/7-seeds0.jpg",
+      "banner_url": null,
+      "synopsis": "Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "alternative_titles": [
+        "Seven Seeds"
+      ],
+      "anime_type": "anime",
+      "genres": [],
+      "seasons": [
+        {
+          "number": 1,
+          "label": "Saison 1",
+          "vostfr_episodes": [
+            {
+              "number": 1,
+              "sources": [
+                "https://vidmoly.net/embed-xo3skvtgoh7v.html",
+                "https://sendvid.com/embed/arlkalh5"
+              ]
+            },
+            {
+              "number": 2,
+              "sources": [
+                "https://vidmoly.net/embed-0mzu2q13tgdh.html",
+                "https://sendvid.com/embed/jqprloue"
+              ]
+            },
+            {
+              "number": 3,
+              "sources": [
+                "https://vidmoly.net/embed-7n5bwq2ggf5d.html",
+                "https://sendvid.com/embed/i7358j66"
+              ]
+            },
+            {
+              "number": 4,
+              "sources": [
+                "https://vidmoly.net/embed-8i4zz27x4cik.html",
+                "https://sendvid.com/embed/1q5xfif3"
+              ]
+            },
+            {
+              "number": 5,
+              "sources": [
+                "https://vidmoly.net/embed-w0c4mlw22dyf.html",
+                "https://sendvid.com/embed/akd8tz50"
+              ]
+            },
+            {
+              "number": 6,
+              "sources": [
+                "https://vidmoly.net/embed-c02xoma623tx.html",
+                "https://sendvid.com/embed/9uvpiw7j"
+              ]
+            },
+            {
+              "number": 7,
+              "sources": [
+                "https://vidmoly.net/embed-7zn7j3hchkzu.html",
+                "https://sendvid.com/embed/vc8fadqu"
+              ]
+            },
+            {
+              "number": 8,
+              "sources": [
+                "https://vidmoly.net/embed-7w7ywvce5zsc.html",
+                "https://sendvid.com/embed/8v3z6ozo"
+              ]
+            },
+            {
+              "number": 9,
+              "sources": [
+                "https://vidmoly.net/embed-mykykhme5id1.html",
+                "https://sendvid.com/embed/enrn66oi"
+              ]
+            },
+            {
+              "number": 10,
+              "sources": [
+                "https://vidmoly.net/embed-orbkgfirpn2n.html",
+                "https://sendvid.com/embed/cm548l1u"
+              ]
+            },
+            {
+              "number": 11,
+              "sources": [
+                "https://vidmoly.net/embed-yzgnzc3om7ed.html",
+                "https://sendvid.com/embed/ypturlmr"
+              ]
+            },
+            {
+              "number": 12,
+              "sources": [
+                "https://vidmoly.net/embed-xm3fm0uwe99k.html",
+                "https://sendvid.com/embed/j55mw2iv"
+              ]
+            }
+          ],
+          "vf_episodes": [],
+          "vostfr_url": "https://animes-sama.fr/catalogue/7-seeds/saison1/vostfr",
+          "vf_url": null
+        },
+        {
+          "number": 2,
+          "label": "Saison 2",
+          "vostfr_episodes": [
+            {
+              "number": 1,
+              "sources": [
+                "https://vidmoly.net/embed-ekgkkdljtd1s.html",
+                "https://sendvid.com/embed/lsfbvki4"
+              ]
+            },
+            {
+              "number": 2,
+              "sources": [
+                "https://vidmoly.net/embed-r8w0m153wv8x.html",
+                "https://sendvid.com/embed/i137cs49"
+              ]
+            },
+            {
+              "number": 3,
+              "sources": [
+                "https://vidmoly.net/embed-zwxzd1th7sdu.html",
+                "https://sendvid.com/embed/h79wh3vu"
+              ]
+            },
+            {
+              "number": 4,
+              "sources": [
+                "https://vidmoly.net/embed-ilw7cu45u45t.html",
+                "https://sendvid.com/embed/sjbre5sq"
+              ]
+            },
+            {
+              "number": 5,
+              "sources": [
+                "https://vidmoly.net/embed-t8lszzcnhj0f.html",
+                "https://sendvid.com/embed/ff4epv4s"
+              ]
+            },
+            {
+              "number": 6,
+              "sources": [
+                "https://vidmoly.net/embed-xegn6st58lob.html",
+                "https://sendvid.com/embed/202ys9lz"
+              ]
+            },
+            {
+              "number": 7,
+              "sources": [
+                "https://vidmoly.net/embed-42p8tahgxxw7.html",
+                "https://sendvid.com/embed/bp3nitoe"
+              ]
+            },
+            {
+              "number": 8,
+              "sources": [
+                "https://vidmoly.net/embed-2pl893w2354d.html",
+                "https://sendvid.com/embed/oxc0uv5n"
+              ]
+            },
+            {
+              "number": 9,
+              "sources": [
+                "https://vidmoly.net/embed-f3576noq26ic.html",
+                "https://sendvid.com/embed/djh70jzt"
+              ]
+            },
+            {
+              "number": 10,
+              "sources": [
+                "https://vidmoly.net/embed-zatxh19lbwyn.html",
+                "https://sendvid.com/embed/bohdrb6m"
+              ]
+            },
+            {
+              "number": 11,
+              "sources": [
+                "https://vidmoly.net/embed-zkcvh830chz2.html",
+                "https://sendvid.com/embed/nn9vmm9l"
+              ]
+            },
+            {
+              "number": 12,
+              "sources": [
+                "https://vidmoly.net/embed-oq2yyisx4hxe.html",
+                "https://sendvid.com/embed/rgf6eztu"
+              ]
+            }
+          ],
+          "vf_episodes": [],
+          "vostfr_url": "https://animes-sama.fr/catalogue/7-seeds/saison2/vostfr",
+          "vf_url": null
+        }
+      ],
+      "scraped_at": "2026-03-21T14:28:35.219721"
+    },
+    {
+      "name": "100 jours avant ta mort",
+      "slug": "100-jours-avant-ta-mort",
+      "url": "https://animes-sama.fr/catalogue/100-jours-avant-ta-mort/",
+      "image_url": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/100-jours-avant-ta-mort0.jpg",
+      "banner_url": null,
+      "synopsis": "Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "alternative_titles": [
+        "Last Hundred Days Till She Dies",
+        "Kimi ga Shinu Made Ato Hyaku Nichi"
+      ],
+      "anime_type": "anime",
+      "genres": [],
+      "seasons": [],
+      "scraped_at": "2026-03-21T14:28:35.493924"
+    },
+    {
+      "name": "86 eighty six",
+      "slug": "86-eighty-six",
+      "url": "https://animes-sama.fr/catalogue/86-eighty-six/",
+      "image_url": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/86-eighty-six1.jpg",
+      "banner_url": null,
+      "synopsis": "Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "alternative_titles": [
+        ""
+      ],
+      "anime_type": "anime",
+      "genres": [],
+      "seasons": [
+        {
+          "number": 1,
+          "label": "Saison 1",
+          "vostfr_episodes": [
+            {
+              "number": 1,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=4291083",
+                "https://vidmoly.biz/embed-9ltzxkhdi1qm.html",
+                "https://sendvid.com/embed/gcs9j2t5"
+              ]
+            },
+            {
+              "number": 2,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=4295952",
+                "https://vidmoly.biz/embed-6dzvlqwjzuos.html",
+                "https://sendvid.com/embed/k8geay50"
+              ]
+            },
+            {
+              "number": 3,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=4301351",
+                "https://vidmoly.biz/embed-lsbhdnu2fh8n.html",
+                "https://sendvid.com/embed/qqpece23"
+              ]
+            },
+            {
+              "number": 4,
+              "sources": [
+                "https://sendvid.com/embed/8vj5ustk",
+                "https://video.sibnet.ru/shell.php?videoid=4306689",
+                "https://sendvid.com/embed/8vj5ustk"
+              ]
+            },
+            {
+              "number": 5,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=4310974",
+                "https://vidmoly.biz/embed-sgv6kcevl51t.html",
+                "https://sendvid.com/embed/yxggwetw"
+              ]
+            },
+            {
+              "number": 6,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=4315886",
+                "https://vidmoly.biz/embed-h27i2le5mscn.html",
+                "https://sendvid.com/embed/a37fpvdh"
+              ]
+            },
+            {
+              "number": 7,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=4319858",
+                "https://vidmoly.biz/embed-0up9yfs0dpj4.html",
+                "https://sendvid.com/embed/14jj0woi"
+              ]
+            },
+            {
+              "number": 8,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=4323978",
+                "https://vidmoly.biz/embed-bks1m9xbsw85.html",
+                "https://sendvid.com/embed/978qrusk"
+              ]
+            },
+            {
+              "number": 9,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=4328597",
+                "https://vidmoly.biz/embed-f8wwszn371e2.html",
+                "https://sendvid.com/embed/4fy2n0zw"
+              ]
+            },
+            {
+              "number": 10,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=4332943",
+                "https://vidmoly.biz/embed-bnqxoqzc8iku.html",
+                "https://sendvid.com/embed/795mevco"
+              ]
+            },
+            {
+              "number": 11,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=4336988",
+                "https://vidmoly.biz/embed-o1pdo91z8er5.html",
+                "https://sendvid.com/embed/ikcefdsa"
+              ]
+            },
+            {
+              "number": 12,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=4713432",
+                "https://video.sibnet.ru/shell.php?videoid=4713432",
+                "https://sendvid.com/embed/2gr4dsmf"
+              ]
+            },
+            {
+              "number": 13,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=4435796",
+                "https://vidmoly.biz/embed-g1b13l650wns.html",
+                "https://sendvid.com/embed/z3hnqdd0"
+              ]
+            },
+            {
+              "number": 14,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=4444239",
+                "https://vidmoly.biz/embed-q4sgsexqrwes.html",
+                "https://sendvid.com/embed/eqg1ea5c"
+              ]
+            },
+            {
+              "number": 15,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=4452904",
+                "https://vidmoly.biz/embed-bx77yutxqlf4.html",
+                "https://sendvid.com/embed/6u2cnijf"
+              ]
+            },
+            {
+              "number": 16,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=4461398",
+                "https://vidmoly.biz/embed-66c93j6t40yg.html",
+                "https://sendvid.com/embed/wn7wcg7l"
+              ]
+            },
+            {
+              "number": 17,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=4475973",
+                "https://vidmoly.biz/embed-40bf2dgt5eko.html",
+                "https://sendvid.com/embed/f4m0iba1"
+              ]
+            },
+            {
+              "number": 18,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=4485514",
+                "https://vidmoly.biz/embed-34uk9hegv7ki.html",
+                "https://sendvid.com/embed/0lo9vd2z"
+              ]
+            },
+            {
+              "number": 19,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5110333",
+                "https://vidmoly.biz/embed-r4qj21eqcuy1.html",
+                "https://sendvid.com/embed/jyxkll09"
+              ]
+            },
+            {
+              "number": 20,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5655733",
+                "https://vidmoly.biz/embed-62szu95b5fkn.html",
+                "https://sendvid.com/embed/cz1m4bjb"
+              ]
+            },
+            {
+              "number": 21,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=4530960",
+                "https://vidmoly.biz/embed-7bg493nj4sco.html",
+                "https://sendvid.com/embed/wng18g3z"
+              ]
+            },
+            {
+              "number": 22,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=4547957",
+                "https://vidmoly.biz/embed-km0ijscnx5os.html",
+                "https://sendvid.com/embed/s21x628j"
+              ]
+            },
+            {
+              "number": 23,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=4713431",
+                "https://vidmoly.biz/embed-646vcau9fij9.html",
+                "https://sendvid.com/embed/hxx2h606"
+              ]
+            },
+            {
+              "number": 24,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5655737",
+                "https://vidmoly.biz/embed-dkr8a0tbtw19.html",
+                "https://sendvid.com/embed/e3s1y6xg"
+              ]
+            },
+            {
+              "number": 25,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=4633116",
+                "https://vidmoly.biz/embed-ekvcl3s3iue6.html",
+                "https://sendvid.com/embed/igm4467l"
+              ]
+            },
+            {
+              "number": 26,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=4641637",
+                "https://vidmoly.biz/embed-i10nsdjusk75.html",
+                "https://sendvid.com/embed/zdpbejqn"
+              ]
+            }
+          ],
+          "vf_episodes": [],
+          "vostfr_url": "https://animes-sama.fr/catalogue/86-eighty-six/saison1/vostfr",
+          "vf_url": null
+        }
+      ],
+      "scraped_at": "2026-03-21T14:28:35.439851"
+    },
+    {
+      "name": "7 jours",
+      "slug": "7-jours",
+      "url": "https://animes-sama.fr/catalogue/7-jours/",
+      "image_url": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/7-jours.jpg",
+      "banner_url": null,
+      "synopsis": "Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "alternative_titles": [
+        "Bokura no Nanokakan Sensou",
+        "Seven Days War",
+        "7 Days War"
+      ],
+      "anime_type": "anime",
+      "genres": [],
+      "seasons": [],
+      "scraped_at": "2026-03-21T14:28:35.211618"
+    },
+    {
+      "name": "91 days",
+      "slug": "91-days",
+      "url": "https://animes-sama.fr/catalogue/91-days/",
+      "image_url": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/91-days0.jpg",
+      "banner_url": null,
+      "synopsis": "Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "alternative_titles": [
+        ""
+      ],
+      "anime_type": "anime",
+      "genres": [],
+      "seasons": [
+        {
+          "number": 1,
+          "label": "Saison 1",
+          "vostfr_episodes": [
+            {
+              "number": 1,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=4821344",
+                "https://vidmoly.biz/embed-2ybi9fxnwl96.html",
+                "https://sendvid.com/embed/mqeqvezo"
+              ]
+            },
+            {
+              "number": 2,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=4821346",
+                "https://vidmoly.biz/embed-s8ue0wxxsan4.html",
+                "https://sendvid.com/embed/o0zqfocc"
+              ]
+            },
+            {
+              "number": 3,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=4821348",
+                "https://vidmoly.biz/embed-voyth7gmieco.html",
+                "https://sendvid.com/embed/rm19emex"
+              ]
+            },
+            {
+              "number": 4,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=4821349",
+                "https://vidmoly.biz/embed-8g7hlq3debqd.html",
+                "https://sendvid.com/embed/42naeuvp"
+              ]
+            },
+            {
+              "number": 5,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=4821351",
+                "https://vidmoly.biz/embed-tw5ozw6xexuw.html",
+                "https://sendvid.com/embed/y58rkq5i"
+              ]
+            },
+            {
+              "number": 6,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=4821352",
+                "https://vidmoly.biz/embed-pgqb5jl4ru0i.html",
+                "https://sendvid.com/embed/zrjb4xil"
+              ]
+            },
+            {
+              "number": 7,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=4821357",
+                "https://vidmoly.biz/embed-l1g58bljlk58.html",
+                "https://sendvid.com/embed/vcxl12fk"
+              ]
+            },
+            {
+              "number": 8,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=4821359",
+                "https://vidmoly.biz/embed-5hv09kfqkfk8.html",
+                "https://sendvid.com/embed/93epbi4m"
+              ]
+            },
+            {
+              "number": 9,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=4821360",
+                "https://vidmoly.biz/embed-qfnjst8pnc8n.html",
+                "https://sendvid.com/embed/zg1qsudc"
+              ]
+            },
+            {
+              "number": 10,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=4821362",
+                "https://vidmoly.biz/embed-1u6ec6tsb2ht.html",
+                "https://sendvid.com/embed/v26ozpiu"
+              ]
+            },
+            {
+              "number": 11,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=4821364",
+                "https://vidmoly.biz/embed-0dbe939uw1yt.html",
+                "https://sendvid.com/embed/4l3ervk2"
+              ]
+            },
+            {
+              "number": 12,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=4821366",
+                "https://vidmoly.biz/embed-poyl7zfxuzpx.html",
+                "https://sendvid.com/embed/ilol9a3i"
+              ]
+            },
+            {
+              "number": 13,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=4821368",
+                "https://vidmoly.biz/embed-xyzw7cw2sfqu.html",
+                "https://sendvid.com/embed/xb2comoe"
+              ]
+            }
+          ],
+          "vf_episodes": [],
+          "vostfr_url": "https://animes-sama.fr/catalogue/91-days/saison1/vostfr",
+          "vf_url": null
+        }
+      ],
+      "scraped_at": "2026-03-21T14:28:35.464167"
+    },
+    {
+      "name": "100 meters",
+      "slug": "100-meters",
+      "url": "https://animes-sama.fr/catalogue/100-meters/",
+      "image_url": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/100-meters.jpg",
+      "banner_url": null,
+      "synopsis": "Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "alternative_titles": [
+        "100 Mètres / 100 m. / Hyakuemu.",
+        "Hyaku m."
+      ],
+      "anime_type": "anime",
+      "genres": [],
+      "seasons": [
+        {
+          "number": 1,
+          "label": "Saison 1",
+          "vostfr_episodes": [
+            {
+              "number": 1,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=",
+                "https://vidmoly.biz/embed-.html",
+                "https://sendvid.com/embed/",
+                "https://vk.com/video_ext.php?oid=&hd=3"
+              ]
+            }
+          ],
+          "vf_episodes": [],
+          "vostfr_url": "https://animes-sama.fr/catalogue/100-meters/saison1/vostfr",
+          "vf_url": null
+        },
+        {
+          "number": 2,
+          "label": "Saison 2",
+          "vostfr_episodes": [
+            {
+              "number": 1,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=",
+                "https://vidmoly.biz/embed-.html",
+                "https://sendvid.com/embed/",
+                "https://vk.com/video_ext.php?oid=&hd=3"
+              ]
+            }
+          ],
+          "vf_episodes": [],
+          "vostfr_url": "https://animes-sama.fr/catalogue/100-meters/saison2/vostfr",
+          "vf_url": null
+        },
+        {
+          "number": 3,
+          "label": "Saison 3",
+          "vostfr_episodes": [
+            {
+              "number": 1,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=",
+                "https://vidmoly.biz/embed-.html",
+                "https://sendvid.com/embed/",
+                "https://vk.com/video_ext.php?oid=&hd=3"
+              ]
+            }
+          ],
+          "vf_episodes": [],
+          "vostfr_url": "https://animes-sama.fr/catalogue/100-meters/saison3/vostfr",
+          "vf_url": null
+        },
+        {
+          "number": 4,
+          "label": "Saison 4",
+          "vostfr_episodes": [
+            {
+              "number": 1,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=",
+                "https://vidmoly.biz/embed-.html",
+                "https://sendvid.com/embed/",
+                "https://vk.com/video_ext.php?oid=&hd=3"
+              ]
+            }
+          ],
+          "vf_episodes": [],
+          "vostfr_url": "https://animes-sama.fr/catalogue/100-meters/saison4/vostfr",
+          "vf_url": null
+        }
+      ],
+      "scraped_at": "2026-03-21T14:28:35.179740"
+    },
+    {
+      "name": "16bit sensation another layer",
+      "slug": "16bit-sensation-another-layer",
+      "url": "https://animes-sama.fr/catalogue/16bit-sensation-another-layer/",
+      "image_url": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/16bit-sensation-another-layer.jpg",
+      "banner_url": null,
+      "synopsis": "Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "alternative_titles": [
+        "The Bishoujo Game Made by All of You and I",
+        "ANOTHER LAYER"
+      ],
+      "anime_type": "anime",
+      "genres": [],
+      "seasons": [
+        {
+          "number": 1,
+          "label": "Saison 1",
+          "vostfr_episodes": [
+            {
+              "number": 1,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5268117",
+                "https://vk.com/video_ext.php?oid=755747641&id=456240187&hd=3",
+                "https://sendvid.com/embed/zk000hk2"
+              ]
+            },
+            {
+              "number": 2,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5276564",
+                "https://vk.com/video_ext.php?oid=755747641&id=456240241&hd=3",
+                "https://sendvid.com/embed/genjdl84"
+              ]
+            },
+            {
+              "number": 3,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5286791",
+                "https://vk.com/video_ext.php?oid=755747641&id=456240288&hd=3",
+                "https://sendvid.com/embed/81bhxty1"
+              ]
+            },
+            {
+              "number": 4,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5296644",
+                "https://vk.com/video_ext.php?oid=755747641&id=456240336&hd=3",
+                "https://sendvid.com/embed/tosug9p9"
+              ]
+            },
+            {
+              "number": 5,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5304875",
+                "https://vk.com/video_ext.php?oid=755747641&id=456240380&hd=3",
+                "https://sendvid.com/embed/gcq7ylr3"
+              ]
+            },
+            {
+              "number": 6,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5313138",
+                "https://vk.com/video_ext.php?oid=755747641&id=456240421&hd=3",
+                "https://sendvid.com/embed/7np64r14"
+              ]
+            },
+            {
+              "number": 7,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5323146",
+                "https://vk.com/video_ext.php?oid=755747641&id=456240460&hd=3",
+                "https://sendvid.com/embed/wutrwmuh"
+              ]
+            },
+            {
+              "number": 8,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5333241",
+                "https://vk.com/video_ext.php?oid=755747641&id=456240502&hd=3",
+                "https://sendvid.com/embed/bnk44zto"
+              ]
+            },
+            {
+              "number": 9,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5344200",
+                "https://vk.com/video_ext.php?oid=755747641&id=456240533&hd=3",
+                "https://sendvid.com/embed/x9w114hx"
+              ]
+            },
+            {
+              "number": 10,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5353828",
+                "https://vk.com/video_ext.php?oid=755747641&id=456240563&hd=3",
+                "https://sendvid.com/embed/95004i0u"
+              ]
+            },
+            {
+              "number": 11,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5362957",
+                "https://vk.com/video_ext.php?oid=755747641&id=456240594&hd=3",
+                "https://sendvid.com/embed/eozcp05x"
+              ]
+            },
+            {
+              "number": 12,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5371325",
+                "https://vk.com/video_ext.php?oid=755747641&id=456240623&hd=3",
+                "https://sendvid.com/embed/us6lfsxv"
+              ]
+            },
+            {
+              "number": 13,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=5379103",
+                "https://vk.com/video_ext.php?oid=755747641&id=456240648&hd=3",
+                "https://sendvid.com/embed/1xnt72fr"
+              ]
+            }
+          ],
+          "vf_episodes": [],
+          "vostfr_url": "https://animes-sama.fr/catalogue/16bit-sensation-another-layer/saison1/vostfr",
+          "vf_url": null
+        }
+      ],
+      "scraped_at": "2026-03-21T14:28:35.170867"
+    },
+    {
+      "name": "a barbarian was admitted to the academy",
+      "slug": "a-barbarian-was-admitted-to-the-academy",
+      "url": "https://animes-sama.fr/catalogue/a-barbarian-was-admitted-to-the-academy/",
+      "image_url": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/a-barbarian-was-admitted-to-the-academy.jpg",
+      "banner_url": null,
+      "synopsis": "Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "alternative_titles": [
+        "A Barbarian Enrolled in the Academy",
+        "A Barbarian Entered the Academy",
+        "Academy Orangkaega Ipakaetda",
+        "Entered the Academy as a Barbarian"
+      ],
+      "anime_type": "anime",
+      "genres": [],
+      "seasons": [
+        {
+          "number": 1,
+          "label": "Saison 1",
+          "vostfr_episodes": [
+            {
+              "number": 1,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=",
+                "https://vidmoly.biz/embed-.html",
+                "https://sendvid.com/embed/",
+                "https://vk.com/video_ext.php?oid=&hd=3"
+              ]
+            }
+          ],
+          "vf_episodes": [],
+          "vostfr_url": "https://animes-sama.fr/catalogue/a-barbarian-was-admitted-to-the-academy/saison1/vostfr",
+          "vf_url": null
+        },
+        {
+          "number": 2,
+          "label": "Saison 2",
+          "vostfr_episodes": [
+            {
+              "number": 1,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=",
+                "https://vidmoly.biz/embed-.html",
+                "https://sendvid.com/embed/",
+                "https://vk.com/video_ext.php?oid=&hd=3"
+              ]
+            }
+          ],
+          "vf_episodes": [],
+          "vostfr_url": "https://animes-sama.fr/catalogue/a-barbarian-was-admitted-to-the-academy/saison2/vostfr",
+          "vf_url": null
+        },
+        {
+          "number": 3,
+          "label": "Saison 3",
+          "vostfr_episodes": [
+            {
+              "number": 1,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=",
+                "https://vidmoly.biz/embed-.html",
+                "https://sendvid.com/embed/",
+                "https://vk.com/video_ext.php?oid=&hd=3"
+              ]
+            }
+          ],
+          "vf_episodes": [],
+          "vostfr_url": "https://animes-sama.fr/catalogue/a-barbarian-was-admitted-to-the-academy/saison3/vostfr",
+          "vf_url": null
+        },
+        {
+          "number": 4,
+          "label": "Saison 4",
+          "vostfr_episodes": [
+            {
+              "number": 1,
+              "sources": [
+                "https://video.sibnet.ru/shell.php?videoid=",
+                "https://vidmoly.biz/embed-.html",
+                "https://sendvid.com/embed/",
+                "https://vk.com/video_ext.php?oid=&hd=3"
+              ]
+            }
+          ],
+          "vf_episodes": [],
+          "vostfr_url": "https://animes-sama.fr/catalogue/a-barbarian-was-admitted-to-the-academy/saison4/vostfr",
+          "vf_url": null
+        }
+      ],
+      "scraped_at": "2026-03-21T14:28:35.456922"
+    }
+  ],
+  "stats": {
+    "total_animes": 20,
+    "total_seasons": 28,
+    "total_episodes": 198,
+    "total_sources": 618,
+    "scraped_at": "2026-03-21T14:28:37.200269"
+  }
+}

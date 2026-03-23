@@ -1,0 +1,42 @@
+{
+  "total_urls": 59244,
+  "checked_urls": 4500,
+  "working_urls": 1883,
+  "broken_urls": 2617,
+  "current_batch": 9,
+  "started_at": "2026-03-21T14:18:54.328105",
+  "last_updated": "2026-03-21T14:21:18.104618",
+  "status": "running",
+  "provider_stats": {
+    "vidmoly": {
+      "total": 1927,
+      "working": 779,
+      "broken": 1148
+    },
+    "sibnet": {
+      "total": 2540,
+      "working": 1096,
+      "broken": 1444
+    },
+    "sendvid": {
+      "total": 23,
+      "working": 8,
+      "broken": 15
+    },
+    "yourupload": {
+      "total": 8,
+      "working": 0,
+      "broken": 8
+    },
+    "300https:": {
+      "total": 1,
+      "working": 0,
+      "broken": 1
+    },
+    "733https:": {
+      "total": 1,
+      "working": 0,
+      "broken": 1
+    }
+  }
+}

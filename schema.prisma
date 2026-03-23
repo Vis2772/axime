@@ -1,0 +1,138 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Anime {
+  id            String    @id @default(cuid())
+  title         String
+  titleJapanese String?
+  titleEnglish  String?
+  slug          String    @unique
+  synopsis      String?
+  imageUrl      String?
+  bannerUrl     String?
+  trailerUrl    String?
+  status        String    @default("airing") // airing, completed, upcoming
+  type          String    @default("tv") // tv, movie, ova, special
+  episodes      Int?
+  duration      Int? // minutes per episode
+  rating        Float?
+  score         Float?
+  year          Int?
+  season        String? // winter, spring, summer, fall
+  source        String? // manga, light novel, original, etc.
+  studio        String?
+  airedFrom     DateTime?
+  airedTo       DateTime?
+  views         Int       @default(0)
+  featured      Boolean   @default(false)
+  trending      Boolean   @default(false)
+  latest        Boolean   @default(false)
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime  @updatedAt
+
+  episodesRel     Episode[]
+  genres          AnimeGenre[]
+  episodesWatched WatchHistory[]
+
+  @@index([status])
+  @@index([type])
+  @@index([year])
+  @@index([featured])
+  @@index([trending])
+  @@index([latest])
+}
+
+model Episode {
+  id        String    @id @default(cuid())
+  animeId   String
+  number    Int
+  title     String?
+  synopsis  String?
+  imageUrl  String?
+  duration  Int?
+  airedAt   DateTime?
+  views     Int       @default(0)
+  createdAt DateTime  @default(now())
+  updatedAt DateTime  @updatedAt
+
+  anime        Anime          @relation(fields: [animeId], references: [id], onDelete: Cascade)
+  videoSources VideoSource[]
+  watchHistory WatchHistory[]
+
+  @@unique([animeId, number])
+  @@index([animeId])
+}
+
+model VideoSource {
+  id        String   @id @default(cuid())
+  episodeId String
+  quality   String   @default("1080p") // 360p, 480p, 720p, 1080p
+  source    String   @default("voe") // voe, vidzy, vidmoly, sibnet, uqload, doodstream, seekstream
+  url       String
+  hlsUrl    String?
+  isWorking Boolean  @default(true)
+  language  String   @default("vostfr") // vostfr, vf, en
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  episode Episode @relation(fields: [episodeId], references: [id], onDelete: Cascade)
+
+  @@index([episodeId])
+}
+
+model Genre {
+  id        String   @id @default(cuid())
+  name      String   @unique
+  slug      String   @unique
+  imageUrl  String?
+  createdAt DateTime @default(now())
+
+  animes AnimeGenre[]
+
+  @@index([slug])
+}
+
+model AnimeGenre {
+  animeId String
+  genreId String
+
+  anime Anime @relation(fields: [animeId], references: [id], onDelete: Cascade)
+  genre Genre @relation(fields: [genreId], references: [id], onDelete: Cascade)
+
+  @@id([animeId, genreId])
+}
+
+model WatchHistory {
+  id        String   @id @default(cuid())
+  userId    String?
+  animeId   String
+  episodeId String
+  progress  Int      @default(0) // seconds
+  completed Boolean  @default(false)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  anime   Anime   @relation(fields: [animeId], references: [id], onDelete: Cascade)
+  episode Episode @relation(fields: [episodeId], references: [id], onDelete: Cascade)
+
+  @@index([userId])
+  @@index([animeId])
+}
+
+model User {
+  id        String   @id @default(cuid())
+  email     String   @unique
+  name      String?
+  avatar    String?
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}

@@ -1,41 +1,19 @@
 {
-  "backup_name": "FRIVOXSTREAM_COMPLETE_BACKUP",
-  "backup_date": "2026-03-23T07:35:22.184Z",
+  "backup_name": "ANIMESAMA_BACKUP",
+  "backup_date": "2026-03-21T16:13:13.878Z",
   "version": "1.0.0",
   "status": "PROTECTED",
   "immutable": true,
-  "description": "Sauvegarde complete de FrivoxStream - App de streaming anime avec integration anime-sama.fun",
-  "tech_stack": [
-    "Next.js 16",
-    "TypeScript",
-    "Tailwind CSS 4",
-    "Prisma ORM",
-    "shadcn/ui",
-    "Framer Motion"
-  ],
+  "description": "Sauvegarde du catalogue AnimeSama",
   "contents": {
-    "page.json": "Page principale - Home + Catalogue",
-    "api.json": "Routes API - 21 endpoints",
-    "lib.json": "Librairies - 13 modules",
-    "components.json": "Components custom - 8 fichiers",
-    "pages.json": "Autres pages - 4 pages",
-    "config.json": "Configuration - 5 fichiers",
-    "scripts.json": "Scripts - 3 scripts",
-    "database.db": "Base de donnees SQLite avec tous les animes"
+    "media.json": "Catalogue principal",
+    "animesama_full.json": "Donnees brutes AnimeSama",
+    "schema.prisma": "Schema Prisma"
   },
   "stats": {
-    "total_files": 55,
-    "api_endpoints": 21,
-    "lib_modules": 13,
-    "components": 8,
-    "database": {
-      "file": "database.db",
-      "size": 42356736,
-      "sizeMB": "40.39 MB",
-      "included": true
-    }
+    "episodes": 0,
+    "video_sources": 0
   },
-  "restore_command": "node restore.js",
-  "github_repo": "https://github.com/VOTRE_USER/frivoxstream-backup",
-  "warning": "NE PAS MODIFIER - SAUVEGARDE PROTEGEE"
+  "restore_command": "bun run scripts/restore-backup.ts snapshot_20260321161313",
+  "warning": "NE PAS MODIFIER CE DOSSIER - SAUVEGARDE PROTEGEE"
 }
